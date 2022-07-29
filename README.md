@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyansh-02
+- 👋 Hi, I’m Priyansh.
 - 👀 I’m interested in Front-end web development, SQL development, UI development.
 - 🌱 I’m currently learning Full stack development with MERN stack
 - 💞️ I’m looking to collaborate on any of the given development role above.
